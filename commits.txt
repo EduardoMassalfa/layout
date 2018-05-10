@@ -1,0 +1,17 @@
+commit 3cea89473615dfabd10e6437b91f24a80aad5628
+Author: eduardo <eduardmassalfa@gmail.com>
+Date:   Thu May 10 15:42:42 2018 +0200
+
+    Cambie el color del footer
+
+commit 80976c5165cf194ad4dccc12c3215bdb8ce41e13
+Author: eduardo <eduardmassalfa@gmail.com>
+Date:   Thu May 10 15:38:45 2018 +0200
+
+    Cambie el inicio a inicio de git
+
+commit 8f5934b7575aed4db28184ef01d2a5e5c76d42fb
+Author: eduardo <eduardmassalfa@gmail.com>
+Date:   Thu May 10 15:34:25 2018 +0200
+
+    Iniciamos
